@@ -9,5 +9,5 @@
 import Foundation
 
 struct Sample {
-    var name: String
+    var names: String
 }
